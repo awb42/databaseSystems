@@ -1,0 +1,1 @@
+select name, itemid, price from items;

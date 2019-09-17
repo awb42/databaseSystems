@@ -1,0 +1,1 @@
+select name, price from items where price < 1.00;
